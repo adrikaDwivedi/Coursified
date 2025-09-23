@@ -21,8 +21,16 @@ Coursified is a mobile app built with **React Native + Expo**, aiming to make le
 
 ---
 
-## 📸 Screenshots *(optional)*  
-*(Add screenshots/gifs of your app once you have them!)*  
+## 📸 Screenshots
+<p align="center">
+    <img src="./assets/Screenshots/icon.png" height= "450" width="300"/>
+    <img src="./assets/Screenshots/home.png" height="450" width="300"/>
+    <img src="./assets/Screenshots/about.png" height="450" width="300"/>
+    <br>
+  <img src="./assets/Screenshots/course.png" width="200"/>
+  <img src="./assets/Screenshots/biodata.png" width="200"/> 
+  <img src="./assets/Screenshots/contact.png" width="200"/>  
+</p>
 
 ---
 
@@ -33,15 +41,7 @@ Coursified is a mobile app built with **React Native + Expo**, aiming to make le
 - [Expo Go](https://expo.dev/client) installed on your Android/iOS device  
 - Git  
 
-<p align="center">
-    <img src="./assets/Screenshots/icon.png" height= "450" width="300"/>
-    <img src="./assets/Screenshots/home.png" height="450" width="300"/>
-    <img src="./assets/Screenshots/about.png" height="450" width="300"/>
-    <br>
-  <img src="./assets/Screenshots/course.png" width="200"/>
-  <img src="./assets/Screenshots/biodata.png" width="200"/> 
-  <img src="./assets/Screenshots/contact.png" width="200"/>  
-</p>
+
 
 ### Installation  
 ```bash
