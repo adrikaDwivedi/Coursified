@@ -33,6 +33,23 @@ Coursified is a mobile app built with **React Native + Expo**, aiming to make le
 - [Expo Go](https://expo.dev/client) installed on your Android/iOS device  
 - Git  
 
+<p align="center">
+    <img src="./assets/Screenshots/icon.png" height= "200" width="300"/>
+    <img src="./assets/Screenshots/home.png" height="200" width="300"/>
+    <img src="./assets/Screenshots/about.png" height="200" width="300"/>
+    <br>
+  <img src="./assets/Screenshots/course.png" width="200"/>
+  <img src="./assets/Screenshots/biodata.png" width="200"/> 
+  <img src="./assets/Screenshots/contactus.png" width="200"/>
+
+  <br>
+  <img src="./assets/Screenshots/checkbox.png" width="200"/>
+  <img src="./assets/Screenshots/view.png" width="200"/> 
+  <img src="./assets/Screenshots/strikeoff.png" width="200"/>
+
+  
+</p>
+
 ### Installation  
 ```bash
 # Clone the repository
@@ -44,3 +61,5 @@ npm install
 
 # Start the development server
 npx expo start
+
+
