@@ -9,7 +9,7 @@ Coursified is a mobile app built with **React Native + Expo**, aiming to make le
 - 🎓 Browse and access courses easily  
 - 📱 Clean and responsive UI built with React Native  
 - 🔄 Smooth navigation with React Navigation  
-- ⚡ Fast development powered by Expo  
+- ⚡ Powered by Expo  
 - 🔔 Future-ready for notifications, reminders, and updates  
 
 ---
